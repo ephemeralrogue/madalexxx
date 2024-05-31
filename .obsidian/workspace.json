@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "children of the damned/20.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fa821f5ff3bdc6e0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5785ec56a0217e0c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "children of the damned/20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "children of the damned/20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,8 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "children of the damned/20.md"
               }
+            }
+          },
+          {
+            "id": "e73976ee30f2b771",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -157,20 +151,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "ac0e71b98551ac5f",
   "lastOpenFiles": [
-    "CHANGELOG/2024-05-09.md",
-    "CHANGELOG/2024-05-08.md",
+    "children of the damned/01.md",
+    "README.md",
     "CHANGELOG/2024-04-19.md",
     "CHANGELOG/2024-04-10.md",
+    "Welcome.md",
+    "CHANGELOG/2024-05-09.md",
+    "CHANGELOG/2024-05-08.md",
     "CHANGELOG",
     "writing prompts/2024-05-29.md",
     "writing prompts",
     "children of the damned/Notes on the Narrative.md",
-    "children of the damned/01.md",
     "children of the damned/11.md",
     "children of the damned/05.md",
     "children of the damned/15.md",
@@ -188,8 +186,6 @@
     "children of the damned/16.md",
     "children of the damned/09.md",
     "children of the damned/19.md",
-    "children of the damned/08.md",
-    "children of the damned/18.md",
     "children of the damned"
   ]
 }
