@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-05-31.md",
+                "file": "children of the damned/21.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-05-31.md",
+                "file": "children of the damned/21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-05-31.md",
+                "file": "children of the damned/21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-05-31.md"
+                "file": "children of the damned/21.md"
               }
             }
           },
@@ -158,9 +158,13 @@
   "active": "ac0e71b98551ac5f",
   "lastOpenFiles": [
     "children of the damned/Notes on the Narrative.md",
+    "children of the damned/12.md",
+    "children of the damned/11.md",
     "children of the damned/21.md",
-    "children of the damned/20.md",
+    "children of the damned/10.md",
+    "children of the damned/09.md",
     "CHANGELOG/2024-05-31.md",
+    "children of the damned/20.md",
     "children of the damned/19.md",
     "children of the damned/18.md",
     "children of the damned/17.md",
@@ -168,10 +172,6 @@
     "children of the damned/15.md",
     "children of the damned/14.md",
     "children of the damned/13.md",
-    "children of the damned/12.md",
-    "children of the damned/11.md",
-    "children of the damned/10.md",
-    "children of the damned/09.md",
     "children of the damned/08.md",
     "children of the damned/07.md",
     "children of the damned/06.md",
