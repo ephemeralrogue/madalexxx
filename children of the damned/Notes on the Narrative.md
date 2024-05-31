@@ -1,0 +1,18 @@
+- Telepathic communication is not handled through impressions. Rather, because of The Fiend, hosts’ thoughts are freely accessible to one another. They learn to shield their thoughts and direct the ones they want to share. In later chapters, this will become useful as “internal dialogue” intentionally shared can be used as a means of manipulation. This is how the Elders will keep the Newborns in line.
+	- As an aside--the possessed are able to read the minds of others not infected by The Fiend; however, this continues to be done through impressions.
+	- this whole system needs to be better worked out.
+- their secluded plateau should be at least two weeks’ travel from the closest settlement.
+- Describe the wolves’ turning and training prior to the final delegation’s demise.
+- Describe the loss of humanity a little more clearly, from the time he requests the first sacrifice to the time he turns the priestesses.
+- "It seemed my transformation was complete; I no longer cared to protect humanity from this darkness within." (Part 09) Provide more insight into this ultimate betrayal of his humanity.
+- When the temple is being created/upgraded, discuss the widening of the pass.
+- When the narrator discusses his daily meditations, describe this as an opportunity for him to regularly meet with the High Priestesses via their shared telepathy.
+- In Chapter 14, there is mention that most top positions in the Temple were taken by women, as they were far more vicious and cunning than their male counterparts. This should be better illustrated and drawn out to explain the change from “High Priestesses” to “High Clerics” in chapter 15, denoting the opening of the position to all genders.
+- Reimagine the Rites of the Eclipse in chapter 16. It takes weeks to travel to the Shrine of the Dark, the parade needs to be reconfigured. Otherwise, change the timing of travel to the Shrine to several hours.
+- In chapter 16, it’s described that the Godhead will travel on palanquins loaded on large animals. Specify that these are not mounted until the first transition point that happens in chapter 17.
+- Change “quarters” to “districts.”
+- In chapter 18, as the priestesses fall upon the candidates, flesh that out a little more fully; the reader is in the crowd, watching the gruesome display. Make it feel gruesome.
+- Figure out a better term than "newcomers" for the new High Clerics in chapters 18, 19, and beyond
+	- I need a better way to differentiate between the original High Priestesses and the newcomers than just "High Priestesses" and "newcomers." Acolytes and Neophytes, perhaps? This requires some thought and research.
+- "net of restraint": the going term for the numbing effect imparted by the main character and the High Priestesses in chapter 19
+- 
