@@ -21,4 +21,9 @@
 - Constituency or congregation? What consist wording can I use to describe those who lived in the valley, in the shadow of the temple, under the wings of the Godhead?
 - Ethics discussion in chapter [[21]]. Should this be discussed sooner? If so, when and how?
 - Mythos surrounding the Godhead, along with bitter descriptions of the religiously inclined, need to be resolved. On the one hand, the main character addresses the idea that those of a religious bent are hypocritical, whereas in chapter [[21]] there is the discussion that their people emulated the self-control exercised by the Godhead.
+- "Shrine of the Dark" introduced in chapter [[12]] ... change this to something more irreverent. Shrine of Radiance. Shrine of the Light. Shrine of Lightness
+- The ritual to turn survivors into High Clerics is called the Festival of Ascension (chapter [[21]])
 - 
+
+# Notes on Future Narratives
+- Vampire hunters are denoted as Dark Weavers rather than Light Workers. Light Workers are those in servitude to the Shrine of Radiance (or whatever the fuck it will be called), whether vampires or their worshippers/constituents/servants. Turn the traditional associations of Light and Dark on their heads.
