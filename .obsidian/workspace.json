@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "children of the damned/21.md",
+                "file": "CHANGELOG/2024-05-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "children of the damned/21.md",
+                "file": "CHANGELOG/2024-05-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "children of the damned/21.md",
+                "file": "CHANGELOG/2024-05-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "children of the damned/21.md"
+                "file": "CHANGELOG/2024-05-31.md"
               }
             }
           },
@@ -158,15 +158,16 @@
   "active": "ac0e71b98551ac5f",
   "lastOpenFiles": [
     "children of the damned/Notes on the Narrative.md",
-    "children of the damned/12.md",
-    "children of the damned/11.md",
+    "children of the damned/22.md",
     "children of the damned/21.md",
-    "children of the damned/10.md",
-    "children of the damned/09.md",
-    "CHANGELOG/2024-05-31.md",
     "children of the damned/20.md",
     "children of the damned/19.md",
     "children of the damned/18.md",
+    "CHANGELOG/2024-05-31.md",
+    "children of the damned/12.md",
+    "children of the damned/11.md",
+    "children of the damned/10.md",
+    "children of the damned/09.md",
     "children of the damned/17.md",
     "children of the damned/16.md",
     "children of the damned/15.md",
@@ -183,7 +184,6 @@
     "CHANGELOG",
     "README.md",
     "CHANGELOG/2024-04-19.md",
-    "CHANGELOG/2024-04-10.md",
     "CHANGELOG",
     "writing prompts",
     "children of the damned"
