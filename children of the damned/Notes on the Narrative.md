@@ -23,6 +23,7 @@
 - Mythos surrounding the Godhead, along with bitter descriptions of the religiously inclined, need to be resolved. On the one hand, the main character addresses the idea that those of a religious bent are hypocritical, whereas in chapter [[21]] there is the discussion that their people emulated the self-control exercised by the Godhead.
 - "Shrine of the Dark" introduced in chapter [[12]] ... change this to something more irreverent. Shrine of Radiance. Shrine of the Light. Shrine of Lightness
 - The ritual to turn survivors into High Clerics is called the Festival of Ascension (chapter [[21]])
+- In chapter [[25]], I begin describing the shadows interweaving themselves into the narrator. I should begin making this a thing much earlier in the narrative, perhaps after their first vision.
 - 
 
 # Notes on Future Narratives
