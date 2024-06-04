@@ -1,0 +1,1 @@
+placeholder for wherever Shrine of the Dark, Shrine of the Light, Shrine of Radiance appears. Pick a name, replace all the placeholders.
