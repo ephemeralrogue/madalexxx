@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "children of the damned/23.md",
+                "file": "children of the damned/24.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "children of the damned/23.md",
+                "file": "children of the damned/24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "children of the damned/23.md",
+                "file": "children of the damned/24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "children of the damned/23.md"
+                "file": "children of the damned/24.md"
               }
             }
           },
@@ -157,10 +158,13 @@
   },
   "active": "ac0e71b98551ac5f",
   "lastOpenFiles": [
-    "children of the damned/Shrine of Radiance.md",
+    "children of the damned/22.md",
     "children of the damned/23.md",
+    "children of the damned/24.md",
+    "children of the damned/full moon ritual.md",
     "CHANGELOG/2024-06-04.md",
     "CHANGELOG/2024-06-03.md",
+    "children of the damned/Shrine of Radiance.md",
     "children of the damned/17.md",
     "children of the damned/13.md",
     "children of the damned/12.md",
@@ -174,15 +178,12 @@
     "children of the damned/04.md",
     "children of the damned/03.md",
     "children of the damned/02.md",
-    "children of the damned/22.md",
-    "children of the damned/full moon ritual.md",
     "children of the damned/21.md",
     "CHANGELOG/2024-05-31.md",
     "children of the damned/Notes on the Narrative.md",
     "children of the damned/20.md",
     "children of the damned/19.md",
     "children of the damned/18.md",
-    "children of the damned/16.md",
     "CHANGELOG",
     "CHANGELOG",
     "writing prompts",
