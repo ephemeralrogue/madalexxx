@@ -25,6 +25,8 @@
 - The ritual to turn survivors into High Clerics is called the Festival of Ascension (chapter [[21]])
 - In chapter [[25]], I begin describing the shadows interweaving themselves into the narrator. I should begin making this a thing much earlier in the narrative, perhaps after their first vision.
 - Chapter [[26]] is a deep dive into the [[Candidate Selection Process]] and [[Candidate Training Program]]. This section may perhaps be more useful earlier in the narrative.
+- Be more consistent with references to the void.
+- In chapter [[27]], there is mention of how the narrator can pseudo listen in on humans' thoughts and pinpoint collective threats to the Godhead. Perhaps this ability should be made more prominent earlier in the text.
 
 # Notes on Future Narratives
 - Vampire hunters are denoted as Dark Weavers rather than Light Workers. Light Workers are those in servitude to the Shrine of Radiance (or whatever the fuck it will be called), whether vampires or their worshippers/constituents/servants. Turn the traditional associations of Light and Dark on their heads.
