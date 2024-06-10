@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-06-09.md",
+                "file": "children of the damned/29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-06-09.md",
+                "file": "children of the damned/29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-06-09.md",
+                "file": "children of the damned/29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-06-09.md"
+                "file": "children of the damned/29.md"
               }
             }
           },
@@ -158,9 +158,10 @@
   },
   "active": "ac0e71b98551ac5f",
   "lastOpenFiles": [
-    "CHANGELOG/2024-06-07.md",
     "CHANGELOG/2024-06-09.md",
+    "children of the damned/29.md",
     "children of the damned/28.md",
+    "CHANGELOG/2024-06-07.md",
     "children of the damned/Playlist.md",
     "children of the damned/The Ascended.md",
     "children of the damned/Notes on the Narrative.md",
@@ -183,7 +184,6 @@
     "CHANGELOG/2024-05-29.md",
     "children of the damned/full moon ritual.md",
     "children of the damned/Candidate Training Program.md",
-    "children of the damned/Candidate Selection Process.md",
     "CHANGELOG",
     "CHANGELOG",
     "writing prompts",
