@@ -27,6 +27,8 @@
 - Chapter [[26]] is a deep dive into the [[Candidate Selection Process]] and [[Candidate Training Program]]. This section may perhaps be more useful earlier in the narrative.
 - Be more consistent with references to the void.
 - In chapter [[27]], there is mention of how the narrator can pseudo listen in on humans' thoughts and pinpoint collective threats to the Godhead. Perhaps this ability should be made more prominent earlier in the text.
+- Godhead? The Ascended? Playing with terms for the vampyric collective. "The Ascended" is introduced in chapter [[28]].
+- 
 
 # Notes on Future Narratives
 - Vampire hunters are denoted as Dark Weavers rather than Light Workers. Light Workers are those in servitude to the Shrine of Radiance (or whatever the fuck it will be called), whether vampires or their worshippers/constituents/servants. Turn the traditional associations of Light and Dark on their heads.
