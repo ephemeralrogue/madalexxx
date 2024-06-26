@@ -1,1 +1,0 @@
-Placeholder for terminology and description of the vampire collective. Formerly, "Godhead."
