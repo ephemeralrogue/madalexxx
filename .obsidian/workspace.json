@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-06-10.md",
+                "file": "CHANGELOG/2024-06-26.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-06-10.md",
+                "file": "CHANGELOG/2024-06-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-06-10.md",
+                "file": "CHANGELOG/2024-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-06-10.md"
+                "file": "CHANGELOG/2024-06-26.md"
               }
             }
           },
@@ -158,10 +158,6 @@
   },
   "active": "ac0e71b98551ac5f",
   "lastOpenFiles": [
-    "children of the damned/32 - Epilogue.md",
-    "children of the damned/31.md",
-    "CHANGELOG/2024-06-10.md",
-    "children of the damned/30.md",
     "CHANGELOG/2024-05-29.md",
     "CHANGELOG/2024-05-31.md",
     "CHANGELOG/2024-06-03.md",
@@ -169,6 +165,11 @@
     "CHANGELOG/2024-06-05.md",
     "CHANGELOG/2024-06-07.md",
     "CHANGELOG/2024-06-09.md",
+    "CHANGELOG/2024-06-10.md",
+    "CHANGELOG/2024-06-26.md",
+    "children of the damned/32 - Epilogue.md",
+    "children of the damned/31.md",
+    "children of the damned/30.md",
     "children of the damned/Notes on the Narrative.md",
     "children of the damned/29.md",
     "children of the damned/28.md",
@@ -183,7 +184,6 @@
     "children of the damned/26.md",
     "children of the damned/25.md",
     "children of the damned/24.md",
-    "children of the damned/18.md",
     "CHANGELOG",
     "CHANGELOG",
     "writing prompts",
