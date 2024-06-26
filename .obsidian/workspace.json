@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-06-26.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -24,12 +24,8 @@
             "id": "c4166ccc58a45613",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "children of the damned/32 - Epilogue.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-06-26.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-06-26.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-06-26.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,15 +166,17 @@
   },
   "active": "ac0e71b98551ac5f",
   "lastOpenFiles": [
-    "CHANGELOG/2024-05-29.md",
-    "CHANGELOG/2024-05-31.md",
+    "CHANGELOG/2024-06-26.md",
+    "CHANGELOG/2024-06-12.md",
+    "CHANGELOG/2024-06-19.md",
     "CHANGELOG/2024-06-03.md",
+    "CHANGELOG/2024-05-31.md",
+    "CHANGELOG/2024-05-29.md",
     "CHANGELOG/2024-06-04.md",
     "CHANGELOG/2024-06-05.md",
     "CHANGELOG/2024-06-07.md",
     "CHANGELOG/2024-06-09.md",
     "CHANGELOG/2024-06-10.md",
-    "CHANGELOG/2024-06-26.md",
     "children of the damned/32 - Epilogue.md",
     "children of the damned/31.md",
     "children of the damned/30.md",
@@ -199,7 +197,6 @@
     "children of the damned/27.md",
     "children of the damned/26.md",
     "children of the damned/25.md",
-    "children of the damned/24.md",
     "CHANGELOG",
     "CHANGELOG",
     "writing prompts",
