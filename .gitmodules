@@ -1,0 +1,3 @@
+[submodule "unholy-requiem"]
+	path = unholy-requiem
+	url = git@github.com:ephemeralrogue/unholy-requiem.git
