@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "slush-pile/moral-code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "slush-pile/moral-code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "slush-pile/moral-code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "slush-pile/moral-code.md"
               }
             }
           },
@@ -166,6 +166,10 @@
   },
   "active": "ac0e71b98551ac5f",
   "lastOpenFiles": [
+    "CHANGELOG/2024-06-27.md",
+    "slush-pile/moral-code.md",
+    "slush-pile",
+    "README.md",
     "CHANGELOG/2024-06-26.md",
     "CHANGELOG/2024-06-12.md",
     "CHANGELOG/2024-06-19.md",
@@ -194,9 +198,6 @@
     "children of the damned/30.md",
     "children of the damned/29.md",
     "children of the damned/28.md",
-    "children of the damned/27.md",
-    "children of the damned/26.md",
-    "children of the damned/25.md",
     "CHANGELOG",
     "CHANGELOG",
     "writing prompts",
