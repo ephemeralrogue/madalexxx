@@ -1,3 +1,6 @@
 [submodule "unholy-requiem"]
 	path = unholy-requiem
 	url = git@github.com:ephemeralrogue/unholy-requiem.git
+[submodule "slush-pile"]
+	path = slush-pile
+	url = git@github.com:ephemeralrogue/slush-pile.git

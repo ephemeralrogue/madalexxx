@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CHANGELOG/2024-07-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CHANGELOG/2024-07-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CHANGELOG/2024-07-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CHANGELOG/2024-07-01.md"
               }
             }
           },
@@ -166,6 +166,18 @@
   },
   "active": "ac0e71b98551ac5f",
   "lastOpenFiles": [
+    "CHANGELOG/2024-06-27.md",
+    "CHANGELOG/2024-07-01.md",
+    "unholy-requiem/Missing Chapters.md",
+    "unholy-requiem/Revision PDFs/Missing Chapters.pdf",
+    "unholy-requiem/20.md",
+    "unholy-requiem/19.md",
+    "unholy-requiem/21.md",
+    "unholy-requiem/23.md",
+    "unholy-requiem/22.md",
+    "slush-pile/moral-code.md",
+    "slush-pile",
+    "README.md",
     "CHANGELOG/2024-06-26.md",
     "CHANGELOG/2024-06-12.md",
     "CHANGELOG/2024-06-19.md",
@@ -183,23 +195,12 @@
     "children of the damned/Notes on the Narrative.md",
     "children of the damned/Revision PDFs/Children - Notes on the Narrative.pdf",
     "children of the damned/Beta Readers.md",
-    "children of the damned/Children of the Damned; First Draft.md",
     "children of the damned/Revision PDFs/First Revision.pdf",
     "children of the damned/Revision PDFs/Children of the Damned; First Draft.pdf",
     "children of the damned/Revision PDFs",
     "children of the damned/untitled folder",
-    "children of the damned/Candidate Training Program.md",
-    "children of the damned/32 - Epilogue.md",
-    "children of the damned/31.md",
-    "children of the damned/30.md",
-    "children of the damned/29.md",
-    "children of the damned/28.md",
-    "children of the damned/27.md",
-    "children of the damned/26.md",
-    "children of the damned/25.md",
     "CHANGELOG",
     "CHANGELOG",
-    "writing prompts",
-    "children of the damned"
+    "writing prompts"
   ]
 }
