@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-07-01.md",
+                "file": "unholy-requiem/15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,14 +21,19 @@
             }
           },
           {
-            "id": "c4166ccc58a45613",
+            "id": "331e93b95dffab65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CHANGELOG/2024-07-05.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-07-01.md",
+                "file": "CHANGELOG/2024-07-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-07-01.md",
+                "file": "CHANGELOG/2024-07-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-07-01.md"
+                "file": "CHANGELOG/2024-07-05.md"
               }
             }
           },
@@ -164,10 +169,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ac0e71b98551ac5f",
+  "active": "331e93b95dffab65",
   "lastOpenFiles": [
-    "CHANGELOG/2024-06-27.md",
+    "unholy-requiem/01.md",
+    "test note.md",
+    "unholy-requiem/Revision PDFs/First Revision.pdf",
+    "unholy-requiem/Children of the Damned; First Draft.md",
+    "unholy-requiem/07.md",
+    "unholy-requiem/06.md",
+    "unholy-requiem/05.md",
+    "unholy-requiem/04.md",
+    "unholy-requiem/03.md",
+    "CHANGELOG/2024-07-05.md",
+    "unholy-requiem/15.md",
     "CHANGELOG/2024-07-01.md",
+    "CHANGELOG/2024-06-27.md",
     "unholy-requiem/Missing Chapters.md",
     "unholy-requiem/Revision PDFs/Missing Chapters.pdf",
     "unholy-requiem/20.md",
@@ -183,24 +199,12 @@
     "CHANGELOG/2024-06-19.md",
     "CHANGELOG/2024-06-03.md",
     "CHANGELOG/2024-05-31.md",
-    "CHANGELOG/2024-05-29.md",
-    "CHANGELOG/2024-06-04.md",
-    "CHANGELOG/2024-06-05.md",
-    "CHANGELOG/2024-06-07.md",
-    "CHANGELOG/2024-06-09.md",
-    "CHANGELOG/2024-06-10.md",
-    "children of the damned/32 - Epilogue.md",
-    "children of the damned/31.md",
-    "children of the damned/30.md",
-    "children of the damned/Notes on the Narrative.md",
     "children of the damned/Revision PDFs/Children - Notes on the Narrative.pdf",
-    "children of the damned/Beta Readers.md",
     "children of the damned/Revision PDFs/First Revision.pdf",
     "children of the damned/Revision PDFs/Children of the Damned; First Draft.pdf",
     "children of the damned/Revision PDFs",
     "children of the damned/untitled folder",
     "CHANGELOG",
-    "CHANGELOG",
-    "writing prompts"
+    "CHANGELOG"
   ]
 }
