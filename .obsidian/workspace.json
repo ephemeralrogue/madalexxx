@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-07-05.md",
+                "file": "CHANGELOG/2024-07-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-07-05.md",
+                "file": "CHANGELOG/2024-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-07-05.md",
+                "file": "CHANGELOG/2024-07-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-07-05.md"
+                "file": "CHANGELOG/2024-07-10.md"
               }
             }
           },
@@ -171,6 +171,14 @@
   },
   "active": "331e93b95dffab65",
   "lastOpenFiles": [
+    "slush-pile/last encounter.md",
+    "slush-pile/PDF exports/last encounter.pdf",
+    "slush-pile/PDF exports",
+    "CHANGELOG/2024-07-10.md",
+    "slush-pile/OMG, Write?!/writing prompts/07-10-24.md",
+    "slush-pile/OMG, Write?!/writing prompts",
+    "slush-pile/OMG, Write?!",
+    "CHANGELOG/2024-07-05.md",
     "unholy-requiem/01.md",
     "test note.md",
     "unholy-requiem/Revision PDFs/First Revision.pdf",
@@ -180,7 +188,6 @@
     "unholy-requiem/05.md",
     "unholy-requiem/04.md",
     "unholy-requiem/03.md",
-    "CHANGELOG/2024-07-05.md",
     "unholy-requiem/15.md",
     "CHANGELOG/2024-07-01.md",
     "CHANGELOG/2024-06-27.md",
@@ -196,15 +203,8 @@
     "README.md",
     "CHANGELOG/2024-06-26.md",
     "CHANGELOG/2024-06-12.md",
-    "CHANGELOG/2024-06-19.md",
-    "CHANGELOG/2024-06-03.md",
-    "CHANGELOG/2024-05-31.md",
     "children of the damned/Revision PDFs/Children - Notes on the Narrative.pdf",
     "children of the damned/Revision PDFs/First Revision.pdf",
-    "children of the damned/Revision PDFs/Children of the Damned; First Draft.pdf",
-    "children of the damned/Revision PDFs",
-    "children of the damned/untitled folder",
-    "CHANGELOG",
-    "CHANGELOG"
+    "children of the damned/Revision PDFs/Children of the Damned; First Draft.pdf"
   ]
 }
