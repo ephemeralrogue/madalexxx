@@ -4,3 +4,9 @@
 [submodule "slush-pile"]
 	path = slush-pile
 	url = git@github.com:ephemeralrogue/slush-pile.git
+[submodule "obsidian-submodule"]
+	path = obsidian-submodule
+	url = git@github.com:ephemeralrogue/obsidian-submodule.git
+[submodule "short-stories"]
+	path = short-stories
+	url = git@github.com:ephemeralrogue/short-stories.git
