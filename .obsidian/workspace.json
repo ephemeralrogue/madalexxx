@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac0e71b98551ac5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unholy-requiem/15.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "331e93b95dffab65",
             "type": "leaf",
             "state": {
@@ -32,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,17 +157,28 @@
   },
   "active": "331e93b95dffab65",
   "lastOpenFiles": [
+    "obsidian-submodule/README.md",
+    "short-stories/last encounter/last encounter.md",
+    "short-stories/last encounter/last encounter edit.md",
+    "short-stories/last encounter",
+    "short-stories/*PDF exports/last encounter.pdf",
+    "short-stories/*PDF exports",
+    "short-stories/last encounter.md",
+    "short-stories/last encounter edit.md",
+    "short-stories/PDF exports/last encounter.pdf",
+    "short-stories/PDF exports",
     "slush-pile/last encounter.md",
     "slush-pile/PDF exports/last encounter.pdf",
     "slush-pile/PDF exports",
+    "short-stories/README.md",
+    "short-stories",
+    "obsidian-submodule",
     "CHANGELOG/2024-07-10.md",
     "slush-pile/OMG, Write?!/writing prompts/07-10-24.md",
     "slush-pile/OMG, Write?!/writing prompts",
-    "slush-pile/OMG, Write?!",
     "CHANGELOG/2024-07-05.md",
     "unholy-requiem/01.md",
     "test note.md",
-    "unholy-requiem/Revision PDFs/First Revision.pdf",
     "unholy-requiem/Children of the Damned; First Draft.md",
     "unholy-requiem/07.md",
     "unholy-requiem/06.md",
@@ -192,19 +189,8 @@
     "CHANGELOG/2024-07-01.md",
     "CHANGELOG/2024-06-27.md",
     "unholy-requiem/Missing Chapters.md",
-    "unholy-requiem/Revision PDFs/Missing Chapters.pdf",
     "unholy-requiem/20.md",
     "unholy-requiem/19.md",
-    "unholy-requiem/21.md",
-    "unholy-requiem/23.md",
-    "unholy-requiem/22.md",
-    "slush-pile/moral-code.md",
-    "slush-pile",
-    "README.md",
-    "CHANGELOG/2024-06-26.md",
-    "CHANGELOG/2024-06-12.md",
-    "children of the damned/Revision PDFs/Children - Notes on the Narrative.pdf",
-    "children of the damned/Revision PDFs/First Revision.pdf",
-    "children of the damned/Revision PDFs/Children of the Damned; First Draft.pdf"
+    "unholy-requiem/21.md"
   ]
 }
