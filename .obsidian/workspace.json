@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "331e93b95dffab65",
+            "id": "0a2c489957d1e546",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-07-10.md",
+                "file": "CHANGELOG/2024-07-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-07-10.md",
+                "file": "CHANGELOG/2024-07-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-07-10.md",
+                "file": "CHANGELOG/2024-07-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-07-10.md"
+                "file": "CHANGELOG/2024-07-11.md"
               }
             }
           },
@@ -155,27 +155,30 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "331e93b95dffab65",
+  "active": "0a2c489957d1e546",
   "lastOpenFiles": [
-    "obsidian-submodule/README.md",
+    "short-stories/last-encounter/last-encounter-pdfs/last-encounter.pdf",
+    "short-stories/last-encounter/last-encounter-pdfs/last encounter (Chelsie Edit).pdf",
+    "short-stories/last-encounter/last-encounter-pdfs",
+    "short-stories/last-encounter/last encounter.md",
+    "short-stories/last-encounter/last encounter edit.md",
+    "short-stories/last-encounter",
+    "CHANGELOG/2024-07-11.md",
     "short-stories/last encounter/last encounter.md",
     "short-stories/last encounter/last encounter edit.md",
     "short-stories/last encounter",
     "short-stories/*PDF exports/last encounter.pdf",
     "short-stories/*PDF exports",
+    "CHANGELOG/2024-07-10.md",
+    "obsidian-submodule/README.md",
     "short-stories/last encounter.md",
     "short-stories/last encounter edit.md",
     "short-stories/PDF exports/last encounter.pdf",
     "short-stories/PDF exports",
     "slush-pile/last encounter.md",
     "slush-pile/PDF exports/last encounter.pdf",
-    "slush-pile/PDF exports",
     "short-stories/README.md",
-    "short-stories",
-    "obsidian-submodule",
-    "CHANGELOG/2024-07-10.md",
     "slush-pile/OMG, Write?!/writing prompts/07-10-24.md",
-    "slush-pile/OMG, Write?!/writing prompts",
     "CHANGELOG/2024-07-05.md",
     "unholy-requiem/01.md",
     "test note.md",
@@ -188,9 +191,6 @@
     "unholy-requiem/15.md",
     "CHANGELOG/2024-07-01.md",
     "CHANGELOG/2024-06-27.md",
-    "unholy-requiem/Missing Chapters.md",
-    "unholy-requiem/20.md",
-    "unholy-requiem/19.md",
-    "unholy-requiem/21.md"
+    "unholy-requiem/Missing Chapters.md"
   ]
 }
