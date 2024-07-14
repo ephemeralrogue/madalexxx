@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-06-07.md",
+                "file": "short-stories/last-encounter/submission blurb.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CHANGELOG/2024-06-07.md",
+            "file": "short-stories/last-encounter/submission blurb.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CHANGELOG/2024-06-07.md",
+            "file": "short-stories/last-encounter/submission blurb.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CHANGELOG/2024-06-07.md"
+            "file": "short-stories/last-encounter/submission blurb.md"
           }
         }
       },
@@ -141,5 +141,8 @@
     }
   },
   "active": "6f1eb6ef26dab7e2",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "CHANGELOG/2024-07-13.md",
+    "CHANGELOG/2024-06-07.md"
+  ]
 }
