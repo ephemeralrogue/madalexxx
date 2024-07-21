@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-07-13.md",
+                "file": "CHANGELOG/2024-07-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-07-13.md",
+                "file": "CHANGELOG/2024-07-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-07-13.md",
+                "file": "CHANGELOG/2024-07-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-07-13.md"
+                "file": "CHANGELOG/2024-07-14.md"
               }
             }
           },
@@ -157,15 +157,17 @@
   },
   "active": "6e6e7134c3efed3b",
   "lastOpenFiles": [
-    "CHANGELOG/2024-07-12.md",
+    "short-stories/last-encounter/last encounter.md",
+    "short-stories/last-encounter/last-encounter-pdfs/Last Encounter Final.pdf",
+    "CHANGELOG/2024-07-14.md",
+    "short-stories/last-encounter/last-encounter-pdfs/last encounter.pages",
     "CHANGELOG/2024-07-13.md",
+    "CHANGELOG/2024-07-12.md",
     "short-stories/last-encounter/submission info.md",
     "short-stories/last-encounter/last-encounter-pdfs/Last Encounter.rtf",
     "CHANGELOG/2024-07-05.md",
     "CHANGELOG/2024-07-10.md",
     "CHANGELOG/2024-07-11.md",
-    "short-stories/last-encounter/last-encounter-pdfs/Last Encounter Final.pdf",
-    "short-stories/last-encounter/last encounter.md",
     "short-stories/last-encounter/Last Encounter.md",
     "short-stories/last-encounter/last encounter revision 1.md",
     "short-stories/last-encounter/last encounter first draft.md",
@@ -179,7 +181,6 @@
     "short-stories/last encounter/last encounter.md",
     "short-stories/last encounter/last encounter edit.md",
     "short-stories/last encounter",
-    "short-stories/*PDF exports/last encounter.pdf",
     "obsidian-submodule/README.md",
     "short-stories/last encounter.md",
     "short-stories/last encounter edit.md",
@@ -190,7 +191,6 @@
     "test note.md",
     "unholy-requiem/Children of the Damned; First Draft.md",
     "unholy-requiem/07.md",
-    "unholy-requiem/06.md",
-    "unholy-requiem/05.md"
+    "unholy-requiem/06.md"
   ]
 }
