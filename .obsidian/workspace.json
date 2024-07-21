@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e6e7134c3efed3b",
+            "id": "6ae169a6c3450588",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-07-14.md",
+                "file": "unholy-requiem/The Ascended.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-07-14.md",
+                "file": "unholy-requiem/The Ascended.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-07-14.md",
+                "file": "unholy-requiem/The Ascended.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-07-14.md"
+                "file": "unholy-requiem/The Ascended.md"
               }
             }
           },
@@ -155,42 +155,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6e6e7134c3efed3b",
+  "active": "6ae169a6c3450588",
   "lastOpenFiles": [
-    "short-stories/last-encounter/last encounter.md",
+    "CHANGELOG/2024-07-21.md",
+    "unholy-requiem/first-rewrite/10 - *Interlude.md",
+    "unholy-requiem/first-rewrite/09.md",
+    "unholy-requiem/first-rewrite/08 - The Last Bastion of Hope.md",
+    "unholy-requiem/first-rewrite/08 - *Interlude.md",
+    "unholy-requiem/first-rewrite/07 - Expansion Beyond Measure.md",
+    "unholy-requiem/first-rewrite/05 - The Shrine of Radiance.md",
+    "unholy-requiem/first-rewrite/06 - Festival of Ascension.md",
+    "unholy-requiem/Rites of Preparation.md",
+    "unholy-requiem/first-rewrite/06 - *Interlude.md",
+    "unholy-requiem/first-rewrite/04 - The Waystation.md",
+    "unholy-requiem/The Ascended.md",
+    "CHANGELOG/2024/06",
+    "CHANGELOG/2024/05/Untitled",
+    "CHANGELOG/2024/05",
+    "CHANGELOG/2024",
+    "unholy-requiem/first-draft/Unholy Requiem; First Draft.md",
+    "unholy-requiem/first-draft/Missing Chapters.md",
+    "unholy-requiem/first-rewrite/10 - Finale.md",
+    "unholy-requiem/first-draft/32 - Epilogue.md",
+    "unholy-requiem/first-rewrite/11 - Epilogue.md",
+    "unholy-requiem/first-draft/31.md",
+    "unholy-requiem/first-draft/30.md",
+    "unholy-requiem/first-draft/29.md",
+    "unholy-requiem/first-draft/28.md",
+    "unholy-requiem/first-draft/27.md",
+    "unholy-requiem/first-draft/26.md",
+    "unholy-requiem/first-draft/25.md",
+    "unholy-requiem/first-draft/24.md",
+    "unholy-requiem/first-draft/23.md",
+    "unholy-requiem/first-rewrite/Untitled",
+    "unholy-requiem/first-draft",
+    "unholy-requiem/first-rewrite",
     "short-stories/last-encounter/last-encounter-pdfs/Last Encounter Final.pdf",
-    "CHANGELOG/2024-07-14.md",
     "short-stories/last-encounter/last-encounter-pdfs/last encounter.pages",
-    "CHANGELOG/2024-07-13.md",
-    "CHANGELOG/2024-07-12.md",
-    "short-stories/last-encounter/submission info.md",
-    "short-stories/last-encounter/last-encounter-pdfs/Last Encounter.rtf",
-    "CHANGELOG/2024-07-05.md",
-    "CHANGELOG/2024-07-10.md",
-    "CHANGELOG/2024-07-11.md",
-    "short-stories/last-encounter/Last Encounter.md",
-    "short-stories/last-encounter/last encounter revision 1.md",
-    "short-stories/last-encounter/last encounter first draft.md",
-    "short-stories/last-encounter/last-encounter-pdfs/last-encounter-draft02.pdf",
-    "short-stories/last-encounter/last-encounter-pdfs/last-encounter-draft01.pdf",
-    "short-stories/last-encounter/last-encounter-pdfs/last-encounter.pdf",
-    "short-stories/last-encounter/last encounter edit.md",
-    "short-stories/last-encounter/last-encounter-pdfs/last encounter (Chelsie Edit).pdf",
-    "short-stories/last-encounter/last-encounter-pdfs",
-    "short-stories/last-encounter",
-    "short-stories/last encounter/last encounter.md",
-    "short-stories/last encounter/last encounter edit.md",
-    "short-stories/last encounter",
-    "obsidian-submodule/README.md",
-    "short-stories/last encounter.md",
-    "short-stories/last encounter edit.md",
-    "slush-pile/last encounter.md",
-    "short-stories/README.md",
-    "slush-pile/OMG, Write?!/writing prompts/07-10-24.md",
-    "unholy-requiem/01.md",
-    "test note.md",
-    "unholy-requiem/Children of the Damned; First Draft.md",
-    "unholy-requiem/07.md",
-    "unholy-requiem/06.md"
+    "short-stories/last-encounter/last-encounter-pdfs/Last Encounter.rtf"
   ]
 }
