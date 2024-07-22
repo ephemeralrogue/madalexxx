@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6eb7df3bc611b899",
+        "id": "e1873dd36704f749",
         "type": "tabs",
         "children": [
           {
-            "id": "6f1eb6ef26dab7e2",
+            "id": "573161815965d632",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "short-stories/last-encounter/submission blurb.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "short-stories/last-encounter/submission blurb.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "short-stories/last-encounter/submission blurb.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "short-stories/last-encounter/submission blurb.md"
-          }
+          "state": {}
         }
       },
       {
@@ -140,8 +132,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6f1eb6ef26dab7e2",
+  "active": "d4e233f92b9b8a7d",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "CHANGELOG/2024-07-21.md",
     "CHANGELOG/2024-07-13.md",
     "CHANGELOG/2024-06-07.md"
   ]

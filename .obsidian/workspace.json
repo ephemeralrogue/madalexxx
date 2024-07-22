@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unholy-requiem/The Ascended.md",
+                "file": "CHANGELOG/2024-07-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unholy-requiem/The Ascended.md",
+                "file": "CHANGELOG/2024-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unholy-requiem/The Ascended.md",
+                "file": "CHANGELOG/2024-07-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unholy-requiem/The Ascended.md"
+                "file": "CHANGELOG/2024-07-22.md"
               }
             }
           },
@@ -157,6 +157,27 @@
   },
   "active": "6ae169a6c3450588",
   "lastOpenFiles": [
+    "short-stories/final encounter/submission info.md",
+    "short-stories/final encounter/final encounter assets/last-encounter-draft02.pdf",
+    "short-stories/final encounter/final encounter assets/last-encounter-draft01.pdf",
+    "short-stories/final encounter/final encounter assets/last encounter (Chelsie Edit).pdf",
+    "short-stories/final encounter/final encounter assets/Last Encounter Final.pdf",
+    "short-stories/final encounter/final encounter assets/Final_Encounter_cover.png",
+    "short-stories/final encounter/final encounter assets/Final Encounter.rtf",
+    "short-stories/final encounter/final encounter assets/Final Encounter.pages",
+    "short-stories/final encounter/final encounter assets/Final Encounter (first draft).pages",
+    "short-stories/final encounter/final encounter assets",
+    "short-stories/final encounter/Final Encounter.md",
+    "short-stories/final encounter/Final Encounter (revision 1).md",
+    "short-stories/final encounter/Final Encounter (first draft).md",
+    "short-stories/last-encounter/last-encounter-pdfs/last-encounter-draft02.pdf",
+    "short-stories/last-encounter/last-encounter-pdfs/last-encounter-draft01.pdf",
+    "short-stories/last-encounter/submission info.md",
+    "short-stories/last-encounter/last encounter.md",
+    "short-stories/last-encounter/last encounter revision 1.md",
+    "short-stories/last-encounter/last encounter first draft.md",
+    "CHANGELOG/2024-07-22.md",
+    "unholy-requiem/The Ascended.md",
     "CHANGELOG/2024-07-21.md",
     "unholy-requiem/first-rewrite/10 - *Interlude.md",
     "unholy-requiem/first-rewrite/09.md",
@@ -168,30 +189,9 @@
     "unholy-requiem/Rites of Preparation.md",
     "unholy-requiem/first-rewrite/06 - *Interlude.md",
     "unholy-requiem/first-rewrite/04 - The Waystation.md",
-    "unholy-requiem/The Ascended.md",
-    "CHANGELOG/2024/06",
-    "CHANGELOG/2024/05/Untitled",
-    "CHANGELOG/2024/05",
-    "CHANGELOG/2024",
     "unholy-requiem/first-draft/Unholy Requiem; First Draft.md",
     "unholy-requiem/first-draft/Missing Chapters.md",
     "unholy-requiem/first-rewrite/10 - Finale.md",
-    "unholy-requiem/first-draft/32 - Epilogue.md",
-    "unholy-requiem/first-rewrite/11 - Epilogue.md",
-    "unholy-requiem/first-draft/31.md",
-    "unholy-requiem/first-draft/30.md",
-    "unholy-requiem/first-draft/29.md",
-    "unholy-requiem/first-draft/28.md",
-    "unholy-requiem/first-draft/27.md",
-    "unholy-requiem/first-draft/26.md",
-    "unholy-requiem/first-draft/25.md",
-    "unholy-requiem/first-draft/24.md",
-    "unholy-requiem/first-draft/23.md",
-    "unholy-requiem/first-rewrite/Untitled",
-    "unholy-requiem/first-draft",
-    "unholy-requiem/first-rewrite",
-    "short-stories/last-encounter/last-encounter-pdfs/Last Encounter Final.pdf",
-    "short-stories/last-encounter/last-encounter-pdfs/last encounter.pages",
-    "short-stories/last-encounter/last-encounter-pdfs/Last Encounter.rtf"
+    "unholy-requiem/first-draft/32 - Epilogue.md"
   ]
 }
