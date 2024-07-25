@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-07-23.md",
+                "file": "CHANGELOG/2024-07-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-07-23.md",
+                "file": "CHANGELOG/2024-07-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-07-23.md",
+                "file": "CHANGELOG/2024-07-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-07-23.md"
+                "file": "CHANGELOG/2024-07-24.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "b7656b963dd8ad58",
   "lastOpenFiles": [
-    "unholy-requiem/first-rewrite/01 - In the Beginning.md",
     "CHANGELOG/2024-07-23.md",
+    "CHANGELOG/2024-07-24.md",
+    "unholy-requiem/first-rewrite/01 - In the Beginning.md",
     "CHANGELOG/2024-07-21.md",
     "CHANGELOG/2024-07-01.md",
     "CHANGELOG/2024/06/2024-06-27.md",
@@ -204,7 +205,6 @@
     "short-stories/last-encounter/last-encounter-pdfs/last-encounter-draft02.pdf",
     "short-stories/last-encounter/last-encounter-pdfs/last-encounter-draft01.pdf",
     "short-stories/last-encounter/submission info.md",
-    "short-stories/last-encounter/last encounter.md",
-    "short-stories/last-encounter/last encounter revision 1.md"
+    "short-stories/last-encounter/last encounter.md"
   ]
 }
