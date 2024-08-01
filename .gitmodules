@@ -10,3 +10,6 @@
 [submodule "short-stories"]
 	path = short-stories
 	url = git@github.com:ephemeralrogue/short-stories.git
+[submodule "LVNACY"]
+	path = LVNACY
+	url = git@github.com-ephemeralrogue:ephemeralrogue/LVNACY.git
