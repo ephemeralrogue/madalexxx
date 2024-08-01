@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-07-27.md",
+                "file": "CHANGELOG/2024-07-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-07-27.md",
+                "file": "CHANGELOG/2024-07-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-07-27.md",
+                "file": "CHANGELOG/2024-07-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-07-27.md"
+                "file": "CHANGELOG/2024-07-31.md"
               }
             }
           },
@@ -169,13 +169,20 @@
   },
   "active": "56aad28f6c5e7c8d",
   "lastOpenFiles": [
-    "CHANGELOG/2024-07-24.md",
+    "short-stories/final encounter/final encounter assets/Final Encounter_pdf.pages",
+    "short-stories/final encounter/final encounter assets/Final Encounter_epub.pages",
+    "short-stories/final encounter/final encounter assets/Final Encounter-Mad Alex.pdf",
     "CHANGELOG/2024-07-27.md",
-    "short-stories/immortality/immortality.md",
-    "short-stories/immortality",
-    "CHANGELOG/2024-07-26.md",
-    "CHANGELOG/2024-07-25.md",
+    "CHANGELOG/2024-07-31.md",
+    "CHANGELOG/2024-07-29.md",
+    "CHANGELOG/2024-07-24.md",
     "CHANGELOG/2024-07-23.md",
+    "CHANGELOG/2024-07-25.md",
+    "CHANGELOG/2024-07-26.md",
+    "short-stories/immortality/immortality.md",
+    "short-stories/immortality/notes.md",
+    "CHANGELOG/2024-07-28.md",
+    "short-stories/immortality",
     "CHANGELOG/2024-07-22.md",
     "CHANGELOG/2024-07-21.md",
     "CHANGELOG/2024-07-10.md",
@@ -191,11 +198,6 @@
     "unholy-requiem/first-rewrite/09.md",
     "unholy-requiem/first-rewrite/08 - The Last Bastion of Hope.md",
     "unholy-requiem/first-rewrite/08 - *Interlude.md",
-    "unholy-requiem/first-rewrite/07 - Expansion Beyond Measure.md",
-    "unholy-requiem/first-rewrite/06 - Festival of Ascension.md",
-    "unholy-requiem/first-rewrite/06 - *Interlude.md",
-    "unholy-requiem/first-rewrite/05 - The Shrine of Radiance.md",
-    "unholy-requiem/first-rewrite/04 - The Waystation.md",
     "short-stories/final encounter/final encounter assets/last-encounter-draft02.pdf",
     "short-stories/final encounter/final encounter assets/last-encounter-draft01.pdf",
     "short-stories/final encounter/final encounter assets/last encounter (Chelsie Edit).pdf",
@@ -203,8 +205,6 @@
     "short-stories/final encounter/final encounter assets/Final_Encounter_cover.png",
     "short-stories/final encounter/final encounter assets/Final Encounter.rtf",
     "short-stories/final encounter/final encounter assets/Final Encounter.pages",
-    "short-stories/final encounter/final encounter assets/Final Encounter (first draft).pages",
-    "short-stories/final encounter/final encounter assets",
-    "short-stories/last-encounter/last-encounter-pdfs/last-encounter-draft02.pdf"
+    "short-stories/final encounter/final encounter assets/Final Encounter (first draft).pages"
   ]
 }

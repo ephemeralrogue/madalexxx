@@ -11,8 +11,12 @@
             "id": "573161815965d632",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CHANGELOG/2024-07-28.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "CHANGELOG/2024-07-28.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "CHANGELOG/2024-07-28.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "CHANGELOG/2024-07-28.md"
+          }
         }
       },
       {
@@ -132,7 +140,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d4e233f92b9b8a7d",
+  "active": "573161815965d632",
   "lastOpenFiles": [
     "Untitled Kanban.md",
     "CHANGELOG/2024-07-21.md",
