@@ -11,9 +11,11 @@
             "id": "56aad28f6c5e7c8d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "LVNACY/design-assets/LVNACY-emblem.png"
+                "file": "CHANGELOG/2024/07/2024-07-31.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -23,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unholy-requiem/first-rewrite/02.md",
+                "file": "CHANGELOG/2024/07/2024-07-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag: #children  ",
+                "query": "tag: #slush",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CHANGELOG/2024/07/2024-07-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CHANGELOG/2024/07/2024-07-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LVNACY/design-assets/LVNACY-emblem.png"
+                "file": "CHANGELOG/2024/07/2024-07-31.md"
               }
             }
           },
@@ -165,42 +169,44 @@
   },
   "active": "56aad28f6c5e7c8d",
   "lastOpenFiles": [
-    "LVNACY/design-assets/LVNACY-emblem.png",
-    "LVNACY/design-assets",
-    "LVNACY/README.md",
-    "LVNACY",
-    "CHANGELOG/2024-08-01.md",
-    "CHANGELOG/2024/07",
-    "CHANGELOG/2024/07/2024-07-31.md",
-    "short-stories/final encounter/final encounter assets/Final Encounter_pdf.pages",
-    "short-stories/final encounter/final encounter assets/Final Encounter_epub.pages",
-    "short-stories/final encounter/final encounter assets/Final Encounter-Mad Alex.pdf",
-    "CHANGELOG/2024/07/2024-07-27.md",
-    "CHANGELOG/2024-07-29.md",
-    "CHANGELOG/2024/07/2024-07-24.md",
-    "CHANGELOG/2024/07/2024-07-23.md",
-    "CHANGELOG/2024/07/2024-07-25.md",
-    "CHANGELOG/2024/07/2024-07-26.md",
-    "short-stories/immortality/immortality.md",
+    "short-stories/final encounter/drafts/last-encounter-draft02.pdf",
+    "short-stories/final encounter/drafts/last-encounter-draft01.pdf",
+    "short-stories/final encounter/drafts/last encounter (Chelsie Edit).pdf",
+    "short-stories/final encounter/drafts/Final Encounter.md",
+    "short-stories/final encounter/drafts/Final Encounter (revision 1).md",
+    "short-stories/final encounter/drafts/Final Encounter (first draft).pages",
+    "short-stories/final encounter/drafts/Final Encounter (first draft).md",
+    "short-stories/final encounter/drafts",
+    "short-stories/final encounter/assets/Final_Encounter_cover.png",
+    "short-stories/final encounter/assets/Final Encounter_pdf.pages",
+    "short-stories/final encounter/assets/Final Encounter_epub.pages",
+    "short-stories/final encounter/Final Encounter.rtf",
     "short-stories/immortality/notes.md",
-    "CHANGELOG/2024-07-28.md",
-    "short-stories/immortality",
-    "CHANGELOG/2024/07/2024-07-22.md",
-    "CHANGELOG/2024/07/2024-07-21.md",
-    "CHANGELOG/2024/07/2024-07-10.md",
-    "CHANGELOG/2024/07/2024-07-11.md",
-    "CHANGELOG/2024/07/2024-07-12.md",
-    "CHANGELOG/2024/07/2024-07-13.md",
-    "CHANGELOG/2024/07/2024-07-14.md",
-    "unholy-requiem/first-rewrite/02.md",
-    "unholy-requiem/first-rewrite/01 - In the Beginning.md",
-    "unholy-requiem/first-rewrite/10 - Finale.md",
-    "unholy-requiem/first-rewrite/11 - Epilogue.md",
-    "unholy-requiem/first-rewrite/10 - *Interlude.md",
-    "unholy-requiem/first-rewrite/09.md",
     "short-stories/final encounter/final encounter assets/last-encounter-draft02.pdf",
     "short-stories/final encounter/final encounter assets/last-encounter-draft01.pdf",
     "short-stories/final encounter/final encounter assets/last encounter (Chelsie Edit).pdf",
-    "short-stories/final encounter/final encounter assets/Final_Encounter_cover.png"
+    "short-stories/final encounter/final encounter assets/Final_Encounter_cover.png",
+    "short-stories/final encounter/Final Encounter.md",
+    "short-stories/final encounter/Final Encounter (revision 1).md",
+    "short-stories/final encounter/Final Encounter (first draft).md",
+    "short-stories/immortality/immortality.md",
+    "CHANGELOG/2024-08-01.md",
+    "CHANGELOG/2024/07/2024-07-31.md",
+    "slush-pile/writing-prompts/the-key-and-the-door-at-the-end-of-the-hall.md",
+    "slush-pile/writing-prompts/shedding-skin.md",
+    "slush-pile/writing-prompts/pornstar-vampire.md",
+    "slush-pile/writing-prompts/in-flight-trauma.md",
+    "slush-pile/writing-prompts/immortality.md",
+    "slush-pile/writing-prompts/horror-movie-vibes.md",
+    "slush-pile/writing-prompts/final-encounter.md",
+    "slush-pile/writing-prompts/fear-of-rejection.md",
+    "slush-pile/writing-prompts/bubblegum-assassin.md",
+    "CHANGELOG/2024/07/2024-07-24.md",
+    "CHANGELOG/2024/07/2024-07-23.md",
+    "CHANGELOG/2024/06/2024-06-27.md",
+    "CHANGELOG/2024/07/2024-07-10.md",
+    "CHANGELOG/2024/06/2024-06-26.md",
+    "CHANGELOG/2024/06/2024-06-12.md",
+    "LVNACY/design-assets/LVNACY-emblem.png"
   ]
 }
