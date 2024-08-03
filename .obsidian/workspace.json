@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-08-01.md",
+                "file": "unholy-requiem/first-rewrite/03 - The Plateau.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024/07/2024-07-31.md",
+                "file": "CHANGELOG/2024-08-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fabce8efbb68fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHANGELOG/2024-08-02.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-08-01.md",
+                "file": "CHANGELOG/2024-08-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-08-01.md",
+                "file": "CHANGELOG/2024-08-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-08-01.md"
+                "file": "CHANGELOG/2024-08-02.md"
               }
             }
           },
@@ -167,8 +180,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "56aad28f6c5e7c8d",
+  "active": "9fabce8efbb68fe3",
   "lastOpenFiles": [
+    "CHANGELOG/2024-08-01.md",
+    "CHANGELOG/2024-08-02.md",
+    "slush-pile/writing-prompts/eternal-portal.md",
+    "LVNACY/branding/lvnacy_emblem_plain_icon.jpg",
+    "LVNACY/branding-madalexxx/github_social_card.jpg",
+    "CHANGELOG/2024/07/2024-07-31.md",
+    "unholy-requiem/first-rewrite/03 - The Plateau.md",
+    "unholy-requiem/first-rewrite/02.md",
+    "unholy-requiem/first-rewrite/01 - In the Beginning.md",
     "LVNACY/branding/youtube_banner.png",
     "LVNACY/branding/lvnacy_emblem_plain.png",
     "LVNACY/branding/LVNACY-emblem.png",
@@ -186,7 +208,6 @@
     "CHANGELOG/2024/07/2024-07-22.md",
     "CHANGELOG/2024/07/2024-07-25.md",
     "CHANGELOG/2024/07/2024-07-26.md",
-    "CHANGELOG/2024/07/2024-07-31.md",
     "short-stories/final encounter/drafts/last-encounter-draft02.pdf",
     "short-stories/final encounter/drafts/last-encounter-draft01.pdf",
     "short-stories/final encounter/drafts/last encounter (Chelsie Edit).pdf",
@@ -195,24 +216,16 @@
     "short-stories/final encounter/drafts/Final Encounter (first draft).pages",
     "short-stories/final encounter/drafts/Final Encounter (first draft).md",
     "short-stories/final encounter/drafts",
-    "short-stories/final encounter/assets/Final_Encounter_cover.png",
     "short-stories/final encounter/assets/Final Encounter_pdf.pages",
     "short-stories/final encounter/assets/Final Encounter_epub.pages",
     "short-stories/immortality/notes.md",
-    "short-stories/final encounter/final encounter assets/Final_Encounter_cover.png",
     "short-stories/final encounter/Final Encounter.md",
     "short-stories/final encounter/Final Encounter (revision 1).md",
     "short-stories/final encounter/Final Encounter (first draft).md",
     "short-stories/immortality/immortality.md",
-    "CHANGELOG/2024-08-01.md",
     "slush-pile/writing-prompts/the-key-and-the-door-at-the-end-of-the-hall.md",
     "slush-pile/writing-prompts/shedding-skin.md",
     "slush-pile/writing-prompts/pornstar-vampire.md",
-    "slush-pile/writing-prompts/in-flight-trauma.md",
-    "slush-pile/writing-prompts/immortality.md",
-    "slush-pile/writing-prompts/horror-movie-vibes.md",
-    "slush-pile/writing-prompts/final-encounter.md",
-    "slush-pile/writing-prompts/fear-of-rejection.md",
-    "slush-pile/writing-prompts/bubblegum-assassin.md"
+    "slush-pile/writing-prompts/in-flight-trauma.md"
   ]
 }
