@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-08-02.md",
+                "file": "CHANGELOG/2024-08-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-08-02.md",
+                "file": "CHANGELOG/2024-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-08-02.md",
+                "file": "CHANGELOG/2024-08-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-08-02.md"
+                "file": "CHANGELOG/2024-08-04.md"
               }
             }
           },
@@ -182,50 +182,50 @@
   },
   "active": "9fabce8efbb68fe3",
   "lastOpenFiles": [
-    "CHANGELOG/2024-08-01.md",
     "CHANGELOG/2024-08-02.md",
+    "CHANGELOG/2024-08-04.md",
+    "LVNACY/design-assets/fonts/urban-tribe.zip",
+    "LVNACY/design-assets/fonts/underworld.zip",
+    "LVNACY/design-assets/fonts/thin-print.zip",
+    "LVNACY/design-assets/fonts/the_bold_font.zip",
+    "LVNACY/design-assets/fonts/talvez-assim.zip",
+    "LVNACY/design-assets/fonts/stereofidelic.zip",
+    "LVNACY/design-assets/fonts/stars.zip",
+    "LVNACY/design-assets/fonts/soulmission.zip",
+    "LVNACY/design-assets/fonts/showboat.zip",
+    "LVNACY/design-assets/fonts/schkorycza.zip",
+    "LVNACY/design-assets/fonts/*font-list.md",
+    "LVNACY/brand-assets/madalexxx/midnight_amusements_discord_banner.png",
+    "LVNACY/brand-assets/madalexxx/madalexxx_emblem_square.png",
+    "LVNACY/brand-assets/madalexxx/madalexxx_emblem_bw.png",
+    "LVNACY/brand-assets/madalexxx/madalexxx_emblem.png",
+    "LVNACY/brand-assets/madalexxx/madalexxx_Patreon_Header.png",
+    "LVNACY/brand-assets/madalexxx/github_social_card.png",
+    "LVNACY/brand-assets/madalexxx/github_social_card.jpg",
+    "LVNACY/brand-assets/lvnacy/youtube_banner.png",
+    "LVNACY/brand-assets/lvnacy/lvnacy_emblem_plain_icon.jpg",
+    "LVNACY/brand-assets/lvnacy/lvnacy_emblem_plain.png",
+    "LVNACY/README.md",
+    "CHANGELOG/2024-08-01.md",
     "slush-pile/writing-prompts/eternal-portal.md",
-    "LVNACY/branding/lvnacy_emblem_plain_icon.jpg",
-    "LVNACY/branding-madalexxx/github_social_card.jpg",
     "CHANGELOG/2024/07/2024-07-31.md",
     "unholy-requiem/first-rewrite/03 - The Plateau.md",
     "unholy-requiem/first-rewrite/02.md",
     "unholy-requiem/first-rewrite/01 - In the Beginning.md",
-    "LVNACY/branding/youtube_banner.png",
-    "LVNACY/branding/lvnacy_emblem_plain.png",
-    "LVNACY/branding/LVNACY-emblem.png",
-    "LVNACY/branding",
-    "LVNACY/branding-madalexxx/midnight_amusements_discord_banner.png",
-    "LVNACY/branding-madalexxx/madalexxx_emblem_bw.png",
-    "LVNACY/branding-madalexxx/madalexxx_emblem.png",
-    "LVNACY/branding-madalexxx/github_social_card.png",
-    "LVNACY/branding-madalexxx",
-    "LVNACY/design-assets/LVNACY-emblem.png",
-    "LVNACY/design-assets",
     "CHANGELOG/2024/07/2024-07-24.md",
     "CHANGELOG/2024/07/2024-07-23.md",
     "CHANGELOG/2024/07/2024-07-21.md",
     "CHANGELOG/2024/07/2024-07-22.md",
     "CHANGELOG/2024/07/2024-07-25.md",
     "CHANGELOG/2024/07/2024-07-26.md",
-    "short-stories/final encounter/drafts/last-encounter-draft02.pdf",
-    "short-stories/final encounter/drafts/last-encounter-draft01.pdf",
-    "short-stories/final encounter/drafts/last encounter (Chelsie Edit).pdf",
     "short-stories/final encounter/drafts/Final Encounter.md",
     "short-stories/final encounter/drafts/Final Encounter (revision 1).md",
-    "short-stories/final encounter/drafts/Final Encounter (first draft).pages",
     "short-stories/final encounter/drafts/Final Encounter (first draft).md",
-    "short-stories/final encounter/drafts",
-    "short-stories/final encounter/assets/Final Encounter_pdf.pages",
-    "short-stories/final encounter/assets/Final Encounter_epub.pages",
     "short-stories/immortality/notes.md",
     "short-stories/final encounter/Final Encounter.md",
     "short-stories/final encounter/Final Encounter (revision 1).md",
     "short-stories/final encounter/Final Encounter (first draft).md",
     "short-stories/immortality/immortality.md",
-    "slush-pile/writing-prompts/the-key-and-the-door-at-the-end-of-the-hall.md",
-    "slush-pile/writing-prompts/shedding-skin.md",
-    "slush-pile/writing-prompts/pornstar-vampire.md",
-    "slush-pile/writing-prompts/in-flight-trauma.md"
+    "slush-pile/writing-prompts/the-key-and-the-door-at-the-end-of-the-hall.md"
   ]
 }
