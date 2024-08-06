@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-08-04.md",
+                "file": "CHANGELOG/2024-08-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-08-04.md",
+                "file": "CHANGELOG/2024-08-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-08-04.md",
+                "file": "CHANGELOG/2024-08-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-08-04.md"
+                "file": "CHANGELOG/2024-08-05.md"
               }
             }
           },
@@ -182,8 +182,12 @@
   },
   "active": "9fabce8efbb68fe3",
   "lastOpenFiles": [
-    "CHANGELOG/2024-08-02.md",
+    "LVNACY/brand-assets/madalexxx/midnight_amusements_banner.png",
+    "short-stories/immortality/immortality.md",
+    "short-stories/immortality/notes.md",
+    "CHANGELOG/2024-08-05.md",
     "CHANGELOG/2024-08-04.md",
+    "CHANGELOG/2024-08-02.md",
     "LVNACY/design-assets/fonts/urban-tribe.zip",
     "LVNACY/design-assets/fonts/underworld.zip",
     "LVNACY/design-assets/fonts/thin-print.zip",
@@ -221,11 +225,8 @@
     "short-stories/final encounter/drafts/Final Encounter.md",
     "short-stories/final encounter/drafts/Final Encounter (revision 1).md",
     "short-stories/final encounter/drafts/Final Encounter (first draft).md",
-    "short-stories/immortality/notes.md",
     "short-stories/final encounter/Final Encounter.md",
     "short-stories/final encounter/Final Encounter (revision 1).md",
-    "short-stories/final encounter/Final Encounter (first draft).md",
-    "short-stories/immortality/immortality.md",
-    "slush-pile/writing-prompts/the-key-and-the-door-at-the-end-of-the-hall.md"
+    "short-stories/final encounter/Final Encounter (first draft).md"
   ]
 }
