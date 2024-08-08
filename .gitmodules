@@ -15,4 +15,4 @@
 	url = git@github.com-ephemeralrogue:ephemeralrogue/LVNACY.git
 [submodule "operations"]
 	path = operations
-	url = git@github.com-ephemeralrogue:ephemeralrogue/madalexxx-business.git
+	url = git@github.com:ephemeralrogue/madalexxx-business.git

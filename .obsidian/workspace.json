@@ -182,10 +182,14 @@
   },
   "active": "9fabce8efbb68fe3",
   "lastOpenFiles": [
-    "CHANGELOG/2024-08-05.md",
-    "CHANGELOG/2024-08-07.md",
-    "LVNACY/brand-assets/madalexxx/midnight_amusements_banner.png",
     "short-stories/immortality/immortality.md",
+    "CHANGELOG/2024-08-07.md",
+    "CHANGELOG/2024-08-05.md",
+    "operations/business-model-canvas-master.pdf",
+    "operations/brainstorm.pdf",
+    "operations/README.md",
+    "operations",
+    "LVNACY/brand-assets/madalexxx/midnight_amusements_banner.png",
     "short-stories/immortality/notes.md",
     "CHANGELOG/2024-08-04.md",
     "CHANGELOG/2024-08-02.md",
@@ -196,9 +200,6 @@
     "LVNACY/design-assets/fonts/talvez-assim.zip",
     "LVNACY/design-assets/fonts/stereofidelic.zip",
     "LVNACY/design-assets/fonts/stars.zip",
-    "LVNACY/design-assets/fonts/soulmission.zip",
-    "LVNACY/design-assets/fonts/showboat.zip",
-    "LVNACY/design-assets/fonts/schkorycza.zip",
     "LVNACY/design-assets/fonts/*font-list.md",
     "LVNACY/brand-assets/madalexxx/midnight_amusements_discord_banner.png",
     "LVNACY/brand-assets/madalexxx/madalexxx_emblem_square.png",
@@ -225,8 +226,6 @@
     "short-stories/final encounter/drafts/Final Encounter.md",
     "short-stories/final encounter/drafts/Final Encounter (revision 1).md",
     "short-stories/final encounter/drafts/Final Encounter (first draft).md",
-    "short-stories/final encounter/Final Encounter.md",
-    "short-stories/final encounter/Final Encounter (revision 1).md",
-    "short-stories/final encounter/Final Encounter (first draft).md"
+    "short-stories/final encounter/Final Encounter.md"
   ]
 }
