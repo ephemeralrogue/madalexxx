@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG/2024-08-05.md",
+                "file": "CHANGELOG/2024-08-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG/2024-08-05.md",
+                "file": "CHANGELOG/2024-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG/2024-08-05.md",
+                "file": "CHANGELOG/2024-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG/2024-08-05.md"
+                "file": "CHANGELOG/2024-08-07.md"
               }
             }
           },
@@ -182,10 +182,15 @@
   },
   "active": "9fabce8efbb68fe3",
   "lastOpenFiles": [
-    "LVNACY/brand-assets/madalexxx/midnight_amusements_banner.png",
     "short-stories/immortality/immortality.md",
-    "short-stories/immortality/notes.md",
+    "CHANGELOG/2024-08-07.md",
     "CHANGELOG/2024-08-05.md",
+    "operations/business-model-canvas-master.pdf",
+    "operations/brainstorm.pdf",
+    "operations/README.md",
+    "operations",
+    "LVNACY/brand-assets/madalexxx/midnight_amusements_banner.png",
+    "short-stories/immortality/notes.md",
     "CHANGELOG/2024-08-04.md",
     "CHANGELOG/2024-08-02.md",
     "LVNACY/design-assets/fonts/urban-tribe.zip",
@@ -195,9 +200,6 @@
     "LVNACY/design-assets/fonts/talvez-assim.zip",
     "LVNACY/design-assets/fonts/stereofidelic.zip",
     "LVNACY/design-assets/fonts/stars.zip",
-    "LVNACY/design-assets/fonts/soulmission.zip",
-    "LVNACY/design-assets/fonts/showboat.zip",
-    "LVNACY/design-assets/fonts/schkorycza.zip",
     "LVNACY/design-assets/fonts/*font-list.md",
     "LVNACY/brand-assets/madalexxx/midnight_amusements_discord_banner.png",
     "LVNACY/brand-assets/madalexxx/madalexxx_emblem_square.png",
@@ -208,7 +210,6 @@
     "LVNACY/brand-assets/madalexxx/github_social_card.jpg",
     "LVNACY/brand-assets/lvnacy/youtube_banner.png",
     "LVNACY/brand-assets/lvnacy/lvnacy_emblem_plain_icon.jpg",
-    "LVNACY/brand-assets/lvnacy/lvnacy_emblem_plain.png",
     "LVNACY/README.md",
     "CHANGELOG/2024-08-01.md",
     "slush-pile/writing-prompts/eternal-portal.md",
@@ -225,8 +226,6 @@
     "short-stories/final encounter/drafts/Final Encounter.md",
     "short-stories/final encounter/drafts/Final Encounter (revision 1).md",
     "short-stories/final encounter/drafts/Final Encounter (first draft).md",
-    "short-stories/final encounter/Final Encounter.md",
-    "short-stories/final encounter/Final Encounter (revision 1).md",
-    "short-stories/final encounter/Final Encounter (first draft).md"
+    "short-stories/final encounter/Final Encounter.md"
   ]
 }
